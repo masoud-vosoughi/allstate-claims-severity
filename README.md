@@ -39,7 +39,7 @@ allstate-claims-severity/
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/masoud-vosoughi/allstate-claims-severity.git
 cd allstate-claims-severity
 
 python3 -m venv .venv
